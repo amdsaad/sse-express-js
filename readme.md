@@ -99,4 +99,4 @@ This project is licensed under the MIT License.
 For questions or feedback, feel free to reach out:
 
 - Website: [amd.codes](https://amd.codes)
-- Twitter: [@yourTwitterHandle](https://twitter.com/amd_saad)
+- Twitter: [@amd_saad](https://twitter.com/amd_saad)
